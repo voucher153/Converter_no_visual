@@ -1,0 +1,13 @@
+.navbar, .navbarFiltered {
+    display: flex;
+    width: 100%;
+}
+
+.navbarFiltered {
+    position: relative;
+}
+
+.valutes {
+    display: flex;
+    gap: 10px
+}

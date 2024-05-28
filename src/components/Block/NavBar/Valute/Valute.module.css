@@ -1,0 +1,12 @@
+
+.clicked {
+    font-weight: 600;
+}
+
+.currency {
+    font-weight: 100;
+}
+
+.clicked, .currency {
+    margin: 0
+}
